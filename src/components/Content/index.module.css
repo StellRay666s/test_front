@@ -1,0 +1,10 @@
+.wrapper_content {
+  max-width: 1300px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.wrapper_content h1 {
+  font-weight: 600;
+  padding-top: 56px;
+}

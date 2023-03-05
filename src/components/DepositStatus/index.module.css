@@ -1,0 +1,31 @@
+.wrapper_deposite_status_active {
+  width: 60px;
+  height: 24px;
+  border-radius: 4px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  color: #65b500;
+  background: rgba(101, 181, 0, 0.3);
+  border: 1px solid #65b500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper_deposite_status_closed {
+  color: #ab0000;
+  width: 60px;
+  height: 24px;
+  background: rgba(171, 0, 0, 0.3);
+  border: 1px solid #ab0000;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

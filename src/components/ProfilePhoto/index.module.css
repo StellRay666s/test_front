@@ -1,0 +1,9 @@
+.profile_photo_wrapper {
+  width: 45px;
+  height: 57px;
+}
+
+.profile_photo {
+  border-radius: 50px;
+  cursor: pointer;
+}

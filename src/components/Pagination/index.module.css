@@ -1,0 +1,11 @@
+.pagination_wrapper {
+  display: flex;
+  gap: 18px;
+  justify-content: end;
+  margin-top: 56px;
+  margin-bottom: 140px;
+}
+
+.pagination_wrapper li {
+  cursor: pointer;
+}
